@@ -1,5 +1,6 @@
 {
-  "name": "mvc_one",
+  "name": "ReactMVC5",
+  "repository": "https://github.com/AbhayShiro/ReactMVC5.git",
   "version": "1.0.0",
   "description": "This is an ASP.NET MVC5 template with React configured for ES6, webpack and babel",
   "main": "/Scripts/App/index.js",
